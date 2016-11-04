@@ -4,6 +4,7 @@
 
 - 大整数相加[bigNumSum.js](bigNumSum.js)
 - 常见排序[sort.js](sort.js)
+- 深度拷贝，深度extend方法[deepCopyExtend.js](deepCopyExtend.js)
 
 ## 我见过的常见题目
 
