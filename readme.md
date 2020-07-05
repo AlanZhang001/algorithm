@@ -22,3 +22,6 @@
 从 1 开始到 n，转成字符串，然后拼接在一起
 输出：这个字符串的长度
 出处：https://www.v2ex.com/t/448561  [sumLength.js](./sumLength.js)
+
+## 一些要搞明白的事情
+- [尾递归调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
