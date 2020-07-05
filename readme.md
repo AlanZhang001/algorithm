@@ -24,4 +24,4 @@
 出处：https://www.v2ex.com/t/448561  [sumLength.js](./sumLength.js)
 
 ## 一些要搞明白的事情
-- [尾递归调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
+- [尾递归调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html):ES6的尾调用优化只在严格模式下开启，正常模式是无效的。
